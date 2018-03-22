@@ -1,0 +1,7 @@
+{
+    "name": "sample-generator",
+    "version": "0.0.1",
+    "dependencies": {
+        "knamp-content-generator": "^0.4.1"
+    }
+}

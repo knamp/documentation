@@ -1,0 +1,7 @@
+{
+    "name": "sample-provider",
+    "version": "0.0.1",
+    "dependencies": {
+        "knamp-content-provider": "^0.1.0"
+    }
+}
