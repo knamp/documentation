@@ -20,9 +20,7 @@ curl -X POST \
   http://localhost:8844/produce \
   -H 'Cache-Control: no-cache' \
   -H 'Content-Type: application/json' \
-  -d '{
-	"url": "https://google.de"
-}'
+  -d '{ "url": "https://google.de" }'
 ````
 
 * the webservice will return a key, for example like this: `c947e700-b6cb-4a38-8adf-f2df3c34d131`
