@@ -6,8 +6,10 @@
 - Node.js (npm)
 - Yarn `npm install -g yarn`
 
-## How to run?
+## How to install and run?
 
+* `git clone git@github.com:knamp/documentation.git`
+* `cd documentation/setup`
 * `yarn install`
 * `yarn start`
 
