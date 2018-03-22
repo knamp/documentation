@@ -1,7 +1,0 @@
-{
-    "name": "sample-bridge",
-    "version": "0.0.1",
-    "dependencies": {
-        "knamp-transmitter-bridge": "^0.1.0"
-    }
-}

@@ -2,8 +2,8 @@
 
 ## Contents
 
-* [Architectural Docker-Compose Setup](compose-setup/README.md)
-* [Documentation](documentation/README.md)
+* [Architectural / Setup](setup/)
+* [Documentation](documentation/)
 
 ## License
 
