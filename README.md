@@ -1,5 +1,7 @@
 # KNAMP Documentation and Setup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/knamp/documentation.svg)](https://greenkeeper.io/)
+
 ## Contents
 
 * [Architectural / Setup](setup/)
